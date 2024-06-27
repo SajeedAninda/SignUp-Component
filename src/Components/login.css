@@ -1,0 +1,7 @@
+.body{
+    background: #FF7A7A;
+    background-image: url("../assets/bg-intro-desktop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
