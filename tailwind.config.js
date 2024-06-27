@@ -8,6 +8,7 @@ export default {
     extend: {
       boxShadow: {
         'custom': '0px 0.45em 0px 0px #df6d6d',
+        'custom2': '0px 0.25em 0px 0px #2fb179',
       },
     },
   },
